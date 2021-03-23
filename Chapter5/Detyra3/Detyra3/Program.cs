@@ -16,7 +16,7 @@ namespace Detyra3
 
             if (a > b)
                 if (a > c) Console.WriteLine("A is the biggest");
-                else if (a < c) Console.WriteLine("C eshte me i madhi");
+                else if (a < c) Console.WriteLine("C is the biggest");
                 else Console.WriteLine("A and C are the biggest");
 
            else if (a < b)

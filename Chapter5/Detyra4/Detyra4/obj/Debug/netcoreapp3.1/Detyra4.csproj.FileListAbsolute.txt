@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\Detyra4\Detyra4\bin\Debug\netcoreapp3.1\Detyra4.exe
+C:\Users\hp\source\repos\Detyra4\Detyra4\bin\Debug\netcoreapp3.1\Detyra4.deps.json
+C:\Users\hp\source\repos\Detyra4\Detyra4\bin\Debug\netcoreapp3.1\Detyra4.runtimeconfig.json
+C:\Users\hp\source\repos\Detyra4\Detyra4\bin\Debug\netcoreapp3.1\Detyra4.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Detyra4\Detyra4\bin\Debug\netcoreapp3.1\Detyra4.dll
+C:\Users\hp\source\repos\Detyra4\Detyra4\bin\Debug\netcoreapp3.1\Detyra4.pdb
+C:\Users\hp\source\repos\Detyra4\Detyra4\obj\Debug\netcoreapp3.1\Detyra4.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Detyra4\Detyra4\obj\Debug\netcoreapp3.1\Detyra4.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Detyra4\Detyra4\obj\Debug\netcoreapp3.1\Detyra4.AssemblyInfo.cs
+C:\Users\hp\source\repos\Detyra4\Detyra4\obj\Debug\netcoreapp3.1\Detyra4.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Detyra4\Detyra4\obj\Debug\netcoreapp3.1\Detyra4.dll
+C:\Users\hp\source\repos\Detyra4\Detyra4\obj\Debug\netcoreapp3.1\Detyra4.pdb
+C:\Users\hp\source\repos\Detyra4\Detyra4\obj\Debug\netcoreapp3.1\Detyra4.genruntimeconfig.cache
