@@ -1,0 +1,4 @@
+C:\Users\hp\OneDrive\Desktop\C#\Chapter3\detyra8\detyra8\obj\Debug\netcoreapp3.1\detyra8.csprojAssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\C#\Chapter3\detyra8\detyra8\obj\Debug\netcoreapp3.1\detyra8.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\C#\Chapter3\detyra8\detyra8\obj\Debug\netcoreapp3.1\detyra8.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\C#\Chapter3\detyra8\detyra8\obj\Debug\netcoreapp3.1\detyra8.csproj.CoreCompileInputs.cache

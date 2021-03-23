@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\C#\Chapter1\detyra5\detyra5\bin\Debug\netcoreapp3.1\detyra5.exe
+C:\Users\hp\Desktop\C#\Chapter1\detyra5\detyra5\bin\Debug\netcoreapp3.1\detyra5.deps.json
+C:\Users\hp\Desktop\C#\Chapter1\detyra5\detyra5\bin\Debug\netcoreapp3.1\detyra5.runtimeconfig.json
+C:\Users\hp\Desktop\C#\Chapter1\detyra5\detyra5\bin\Debug\netcoreapp3.1\detyra5.runtimeconfig.dev.json
+C:\Users\hp\Desktop\C#\Chapter1\detyra5\detyra5\bin\Debug\netcoreapp3.1\detyra5.dll
+C:\Users\hp\Desktop\C#\Chapter1\detyra5\detyra5\bin\Debug\netcoreapp3.1\detyra5.pdb
+C:\Users\hp\Desktop\C#\Chapter1\detyra5\detyra5\obj\Debug\netcoreapp3.1\detyra5.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C#\Chapter1\detyra5\detyra5\obj\Debug\netcoreapp3.1\detyra5.AssemblyInfo.cs
+C:\Users\hp\Desktop\C#\Chapter1\detyra5\detyra5\obj\Debug\netcoreapp3.1\detyra5.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\Chapter1\detyra5\detyra5\obj\Debug\netcoreapp3.1\detyra5.dll
+C:\Users\hp\Desktop\C#\Chapter1\detyra5\detyra5\obj\Debug\netcoreapp3.1\detyra5.pdb
+C:\Users\hp\Desktop\C#\Chapter1\detyra5\detyra5\obj\Debug\netcoreapp3.1\detyra5.genruntimeconfig.cache

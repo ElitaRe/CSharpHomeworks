@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\detyra10\detyra10\bin\Debug\netcoreapp3.1\detyra10.exe
+C:\Users\hp\source\repos\detyra10\detyra10\bin\Debug\netcoreapp3.1\detyra10.deps.json
+C:\Users\hp\source\repos\detyra10\detyra10\bin\Debug\netcoreapp3.1\detyra10.runtimeconfig.json
+C:\Users\hp\source\repos\detyra10\detyra10\bin\Debug\netcoreapp3.1\detyra10.runtimeconfig.dev.json
+C:\Users\hp\source\repos\detyra10\detyra10\bin\Debug\netcoreapp3.1\detyra10.dll
+C:\Users\hp\source\repos\detyra10\detyra10\bin\Debug\netcoreapp3.1\detyra10.pdb
+C:\Users\hp\source\repos\detyra10\detyra10\obj\Debug\netcoreapp3.1\detyra10.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\detyra10\detyra10\obj\Debug\netcoreapp3.1\detyra10.AssemblyInfo.cs
+C:\Users\hp\source\repos\detyra10\detyra10\obj\Debug\netcoreapp3.1\detyra10.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\detyra10\detyra10\obj\Debug\netcoreapp3.1\detyra10.dll
+C:\Users\hp\source\repos\detyra10\detyra10\obj\Debug\netcoreapp3.1\detyra10.pdb
+C:\Users\hp\source\repos\detyra10\detyra10\obj\Debug\netcoreapp3.1\detyra10.genruntimeconfig.cache

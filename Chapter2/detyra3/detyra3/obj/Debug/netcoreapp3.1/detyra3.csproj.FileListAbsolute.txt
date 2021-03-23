@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\detyra3\detyra3\obj\Debug\netcoreapp3.1\detyra3.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\detyra3\detyra3\obj\Debug\netcoreapp3.1\detyra3.AssemblyInfo.cs
+C:\Users\hp\Desktop\detyra3\detyra3\obj\Debug\netcoreapp3.1\detyra3.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\detyra3\detyra3\bin\Debug\netcoreapp3.1\detyra3.exe
+C:\Users\hp\Desktop\detyra3\detyra3\bin\Debug\netcoreapp3.1\detyra3.deps.json
+C:\Users\hp\Desktop\detyra3\detyra3\bin\Debug\netcoreapp3.1\detyra3.runtimeconfig.json
+C:\Users\hp\Desktop\detyra3\detyra3\bin\Debug\netcoreapp3.1\detyra3.runtimeconfig.dev.json
+C:\Users\hp\Desktop\detyra3\detyra3\bin\Debug\netcoreapp3.1\detyra3.dll
+C:\Users\hp\Desktop\detyra3\detyra3\bin\Debug\netcoreapp3.1\detyra3.pdb
+C:\Users\hp\Desktop\detyra3\detyra3\obj\Debug\netcoreapp3.1\detyra3.dll
+C:\Users\hp\Desktop\detyra3\detyra3\obj\Debug\netcoreapp3.1\detyra3.pdb
+C:\Users\hp\Desktop\detyra3\detyra3\obj\Debug\netcoreapp3.1\detyra3.genruntimeconfig.cache
