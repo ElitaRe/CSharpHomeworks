@@ -10,3 +10,4 @@ C:\Users\hp\OneDrive\Desktop\C#\Chapter5\detyra7\detyra7\obj\Debug\netcoreapp3.1
 C:\Users\hp\OneDrive\Desktop\C#\Chapter5\detyra7\detyra7\obj\Debug\netcoreapp3.1\detyra7.dll
 C:\Users\hp\OneDrive\Desktop\C#\Chapter5\detyra7\detyra7\obj\Debug\netcoreapp3.1\detyra7.pdb
 C:\Users\hp\OneDrive\Desktop\C#\Chapter5\detyra7\detyra7\obj\Debug\netcoreapp3.1\detyra7.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\C#\Chapter5\Detyra7\detyra7\obj\Debug\netcoreapp3.1\detyra7.csprojAssemblyReference.cache

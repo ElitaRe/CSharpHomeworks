@@ -4,33 +4,25 @@ namespace forgetCode
 {
     class Program
     {
-        public static void Main()
+        static void Main(string[] args)
         {
-            int n;
-            float large, small;
-            int[] a = new int[50];
-            Console.WriteLine("Enter the size of Array");
-            string s = Console.ReadLine();
-            n = Int32.Parse(s);
-            Console.WriteLine("Enter the array elements");
-            for (int i = 0; i < n; i++)
+            int lowest = 0, highest = 0, input;
+
+            Console.Write("Enter numbers length: ");
+            int lenght = Int32.Parse(Console.ReadLine());
+
+            for (int i = 0; i < lenght; i++)
             {
-                string s1 = Console.ReadLine();
-                a[i] = Int32.Parse(s1);
+                Console.Write("Enter number: ");
+                input = Int32.Parse(Console.ReadLine());
+                if (i == 0) lowest = highest = input;
+                else
+                {
+                    if (lowest > input) lowest = input;
+                    if (highest < input) highest = input;
+                }
             }
-            Console.Write("");
-            large = a[0];
-            small = a[0];
-            for (int i = 1; i < n; i++)
-            {
-                if (a[i] > large)
-                    large = a[i];
-                else if (a[i] < small)
-                    small = a[i];
-            }
-            Console.WriteLine("Largest element in the array is {0}", large);
-            Console.WriteLine("Smallest element in the array is {0}", small);
+            Console.WriteLine("Lowest - {0}, Highest - {1}", lowest, highest);
         }
     }
-
 }

@@ -8,4 +8,4 @@ public class ConversionExample
         string hexnr = Convert.ToString(decnr, 16);
         Console.WriteLine("Numri " + decnr + " i kthyer ne hex eshte " + hexnr);
     }
-}s
+}
