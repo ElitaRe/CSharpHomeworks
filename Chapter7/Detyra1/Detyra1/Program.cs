@@ -6,9 +6,9 @@ namespace Detyra1
     {
         static void Main(string[] args)
         {
-            int[] arr = new int[20];
+            int[] arr = new int[21];
 
-            for (int i = 0; i < arr.Length; i++)
+            for (int i = 1; i < arr.Length; i++)
             {
                 arr[i] = i * 5;
                 Console.WriteLine(arr[i]);
