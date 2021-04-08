@@ -1,0 +1,13 @@
+C:\Users\hp\OneDrive\Desktop\C#\Chapter3\Detyra14\Detyra14\bin\Debug\netcoreapp3.1\Detyra14.exe
+C:\Users\hp\OneDrive\Desktop\C#\Chapter3\Detyra14\Detyra14\bin\Debug\netcoreapp3.1\Detyra14.deps.json
+C:\Users\hp\OneDrive\Desktop\C#\Chapter3\Detyra14\Detyra14\bin\Debug\netcoreapp3.1\Detyra14.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\C#\Chapter3\Detyra14\Detyra14\bin\Debug\netcoreapp3.1\Detyra14.runtimeconfig.dev.json
+C:\Users\hp\OneDrive\Desktop\C#\Chapter3\Detyra14\Detyra14\bin\Debug\netcoreapp3.1\Detyra14.dll
+C:\Users\hp\OneDrive\Desktop\C#\Chapter3\Detyra14\Detyra14\bin\Debug\netcoreapp3.1\Detyra14.pdb
+C:\Users\hp\OneDrive\Desktop\C#\Chapter3\Detyra14\Detyra14\obj\Debug\netcoreapp3.1\Detyra14.csprojAssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\C#\Chapter3\Detyra14\Detyra14\obj\Debug\netcoreapp3.1\Detyra14.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\C#\Chapter3\Detyra14\Detyra14\obj\Debug\netcoreapp3.1\Detyra14.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\C#\Chapter3\Detyra14\Detyra14\obj\Debug\netcoreapp3.1\Detyra14.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\C#\Chapter3\Detyra14\Detyra14\obj\Debug\netcoreapp3.1\Detyra14.dll
+C:\Users\hp\OneDrive\Desktop\C#\Chapter3\Detyra14\Detyra14\obj\Debug\netcoreapp3.1\Detyra14.pdb
+C:\Users\hp\OneDrive\Desktop\C#\Chapter3\Detyra14\Detyra14\obj\Debug\netcoreapp3.1\Detyra14.genruntimeconfig.cache

@@ -12,7 +12,7 @@ namespace detyra1
     int b = Int32.Parse(Console.ReadLine());
     Console.Write("Enter number 3: ");
     int c = Int32.Parse(Console.ReadLine());
-    Console.WriteLine("Result is {0}", a + b + c);
+    Console.WriteLine(a + b + c);
 }
     }
 }

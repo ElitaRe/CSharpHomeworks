@@ -6,10 +6,12 @@ namespace Detyra14
     {
         static void Main(string[] args)
         {
-            int number = 72;
+            Console.Write("Enter a number: ");
+            int number = int.Parse(Console.ReadLine());
+            
             bool isPrime = true;
             if (number > 2)
-                for (int i = 2; i <= Math.Ceiling(Math.Sqrt(numbber)); ++i)
+                for (int i = 2; i <= Math.Ceiling(Math.Sqrt(number)); ++i)
                 {
                     if (number % i == 0) isPrime = false;
                 }
