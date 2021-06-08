@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\C#\\Chapter2\\detyra2\\detyra2\\detyra2.csproj": {}
+    "C:\\Users\\hp\\OneDrive\\Desktop\\C#\\Chapter2\\detyra2\\detyra2\\detyra2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\C#\\Chapter2\\detyra2\\detyra2\\detyra2.csproj": {
+    "C:\\Users\\hp\\OneDrive\\Desktop\\C#\\Chapter2\\detyra2\\detyra2\\detyra2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\C#\\Chapter2\\detyra2\\detyra2\\detyra2.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Desktop\\C#\\Chapter2\\detyra2\\detyra2\\detyra2.csproj",
         "projectName": "detyra2",
-        "projectPath": "C:\\Users\\hp\\Desktop\\C#\\Chapter2\\detyra2\\detyra2\\detyra2.csproj",
+        "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\C#\\Chapter2\\detyra2\\detyra2\\detyra2.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\C#\\Chapter2\\detyra2\\detyra2\\obj\\",
+        "outputPath": "C:\\Users\\hp\\OneDrive\\Desktop\\C#\\Chapter2\\detyra2\\detyra2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

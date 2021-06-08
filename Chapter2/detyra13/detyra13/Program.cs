@@ -6,16 +6,14 @@ namespace detyra13
     {
         static void Main(string[] args)
         {
-            int nr1 = 5;
-            int nr2 = 10;
+            int number1 = 5;
+            int number2 = 10;
 
-            int ph = nr2;
-
-            nr2 = nr1;
-            nr1 = ph;
-
-            Console.WriteLine(nr1);
-            Console.WriteLine(nr2);
+            int number3;
+            number3 = number1;
+            number1 = number2;
+            Console.WriteLine(number1);
+            Console.WriteLine(number3);
         }
     }
 }

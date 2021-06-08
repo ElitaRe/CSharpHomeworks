@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Desktop\\C#\\Chapter2\\detyra13\\detyra13\\detyra13.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Desktop\\C#\\Chapter2\\detyra13\\detyra13\\detyra13.csproj",
       "projectName": "detyra13",
-      "projectPath": "C:\\Users\\hp\\Desktop\\C#\\Chapter2\\detyra13\\detyra13\\detyra13.csproj",
+      "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\C#\\Chapter2\\detyra13\\detyra13\\detyra13.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Desktop\\C#\\Chapter2\\detyra13\\detyra13\\obj\\",
+      "outputPath": "C:\\Users\\hp\\OneDrive\\Desktop\\C#\\Chapter2\\detyra13\\detyra13\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

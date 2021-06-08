@@ -1,0 +1,13 @@
+C:\Users\hp\OneDrive\Desktop\C#\Chapter13\Extra2\Extra2\bin\Debug\netcoreapp3.1\Extra2.exe
+C:\Users\hp\OneDrive\Desktop\C#\Chapter13\Extra2\Extra2\bin\Debug\netcoreapp3.1\Extra2.deps.json
+C:\Users\hp\OneDrive\Desktop\C#\Chapter13\Extra2\Extra2\bin\Debug\netcoreapp3.1\Extra2.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\C#\Chapter13\Extra2\Extra2\bin\Debug\netcoreapp3.1\Extra2.runtimeconfig.dev.json
+C:\Users\hp\OneDrive\Desktop\C#\Chapter13\Extra2\Extra2\bin\Debug\netcoreapp3.1\Extra2.dll
+C:\Users\hp\OneDrive\Desktop\C#\Chapter13\Extra2\Extra2\bin\Debug\netcoreapp3.1\Extra2.pdb
+C:\Users\hp\OneDrive\Desktop\C#\Chapter13\Extra2\Extra2\obj\Debug\netcoreapp3.1\Extra2.csprojAssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\C#\Chapter13\Extra2\Extra2\obj\Debug\netcoreapp3.1\Extra2.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\C#\Chapter13\Extra2\Extra2\obj\Debug\netcoreapp3.1\Extra2.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\C#\Chapter13\Extra2\Extra2\obj\Debug\netcoreapp3.1\Extra2.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\C#\Chapter13\Extra2\Extra2\obj\Debug\netcoreapp3.1\Extra2.dll
+C:\Users\hp\OneDrive\Desktop\C#\Chapter13\Extra2\Extra2\obj\Debug\netcoreapp3.1\Extra2.pdb
+C:\Users\hp\OneDrive\Desktop\C#\Chapter13\Extra2\Extra2\obj\Debug\netcoreapp3.1\Extra2.genruntimeconfig.cache
